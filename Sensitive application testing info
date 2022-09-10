@@ -1,0 +1,5 @@
+GET {{base_url1}}/user/?username="User1"
+GET {{base_url1}}/user/?username="User1"
+POST {{base_url1}}/user
+POST {{base_url}}/pet
+POST {{base_url}}/store/inventory
